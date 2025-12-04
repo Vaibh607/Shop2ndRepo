@@ -1,0 +1,181 @@
+[
+    {
+        "itemId": "AD0001",
+        "itemName": "Teddy with fivestar",
+        "addonType": ["Soft Toy","Chocolate"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0002",
+        "itemName": "Sparkling Candles",
+        "addonType": ["Candle"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0003",
+        "itemName": "Anniversary Topper",
+        "addonType": ["Cake Topper"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0004",
+        "itemName": "Designer Candles",
+        "addonType": ["Candle"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0005",
+        "itemName": "2 Diary Milk Silk",
+        "addonType": ["Chocolate"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0006",
+        "itemName": "5 Diary Milk bunch",
+        "addonType": ["Chocolate"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0007",
+        "itemName": "5 Kitkat bunch",
+        "addonType": ["Chocolate"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0008",
+        "itemName": "10 Five Star bunch",
+        "addonType": ["Chocolate"],
+        "price": 100,
+        "discountPrice": 80 
+    },
+    {
+        "itemId": "AD0009",
+        "itemName": "6 in teddy",
+        "addonType": ["Soft Toy"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0010",
+        "itemName": "couple Topper",
+        "addonType": ["Cake Topper"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0011",
+        "itemName": "5 Dairy Milk bunch",
+        "addonType": ["Chocolate"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0012",
+        "itemName": "Mothers day Greeting Card",
+        "addonType": ["Greeting Card"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0013",
+        "itemName": "Love Greeting Card",
+        "addonType": ["Greeting Card"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0014",
+        "itemName": "Thank You Greeting Card",
+        "addonType": ["Greeting Card"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0015",
+        "itemName": "Birthday Greeting Card",
+        "addonType": ["Greeting Card"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0016",
+        "itemName": "Get Well Soon Greeting Card",
+        "addonType": ["Greeting Card"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0017",
+        "itemName": "Happy Birthday Greeting Card",
+        "addonType": ["Greeting Card"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0018",
+        "itemName": "Fathers day Greeting Card",
+        "addonType": ["Greeting Card"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0019",
+        "itemName": "Anniversary Greeting Card",
+        "addonType": ["Greeting Card"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0020",
+        "itemName": "Friendship day Greeting Card",
+        "addonType": ["Greeting Card"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0021",
+        "itemName": "Rose day Greeting Card",
+        "addonType": ["Greeting Card"],
+        "price": 100,
+        "discountPrice": 80
+    },
+    {
+        "itemId": "AD0022",
+        "itemName": "5 in Teddy",
+        "addonType": ["Soft Toy"],
+        "price": 100,
+        "discountPrice": 80
+    },{
+        "itemId": "AD0023",
+        "itemName": "Birthday Topper",
+        "addonType": ["Cake Topper"],
+        "price": 100,
+        "discountPrice": 80
+    },{
+        "itemId": "AD0024",
+        "itemName": "Birthday Topper",
+        "addonType": ["Cake Topper"],
+        "price": 100,
+        "discountPrice": 80
+    },{
+        "itemId": "AD0025",
+        "itemName": "5 Kitkat bunch",
+        "addonType": ["Chocolate"],
+        "price": 100,
+        "discountPrice": 80
+    },{
+        "itemId": "AD0026",
+        "itemName": "Designer Candles",
+        "addonType": ["Candle"],
+        "price": 100,
+        "discountPrice": 80
+    }
+    
+]
