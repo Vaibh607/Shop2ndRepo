@@ -177,35 +177,203 @@
         "price": 280,
         "discountPrice": 195
     },{
-        "itemId": "AD0026",
+        "itemId": "AD0027",
         "itemName": "Birthday Hanger Black & Gold",
         "addonType": [],
-        "price": 280,
-        "discountPrice": 195
+        "price": 130,
+        "discountPrice": 95
     },{
-        "itemId": "AD0026",
+        "itemId": "AD0028",
         "itemName": "Birthday Hanger Pink",
         "addonType": [],
-        "price": 280,
-        "discountPrice": 195
+        "price": 130,
+        "discountPrice": 95
     },{
-        "itemId": "AD0026",
+        "itemId": "AD0029",
         "itemName": "Anniversary Hanger White",
         "addonType": [],
-        "price": 280,
-        "discountPrice": 195
+        "price": 130,
+        "discountPrice": 95
     },{
-        "itemId": "AD0026",
+        "itemId": "AD0030",
         "itemName": "Anniversary Hanger Black & Gold",
         "addonType": [],
-        "price": 280,
-        "discountPrice": 195
+        "price": 130,
+        "discountPrice": 95
     },{
-        "itemId": "AD0026",
+        "itemId": "AD0031",
         "itemName": "Colourful Balloons Pack of 50",
         "addonType": [],
-        "price": 280,
-        "discountPrice": 195
+        "price": 130,
+        "discountPrice": 85
+    },{
+        "itemId": "AD0032",
+        "itemName": "Magic Candle",
+        "addonType": [],
+        "price": 45,
+        "discountPrice": 20
+    },{
+        "itemId": "AD0033",
+        "itemName": "Love Ceramic Cup",
+        "addonType": [],
+        "price": 169,
+        "discountPrice": 129
+    },{
+        "itemId": "AD0034",
+        "itemName": "Birthday Ceramic Cup",
+        "addonType": [],
+        "price": 149,
+        "discountPrice": 95
+    },{
+        "itemId": "AD0035",
+        "itemName": "Good Luck Ceramic Cup",
+        "addonType": [],
+        "price": 155,
+        "discountPrice": 129
+    },{
+        "itemId": "AD0036",
+        "itemName": "Flower Design Ceramic Cup",
+        "addonType": [],
+        "price": 149,
+        "discountPrice": 95
+    },{
+        "itemId": "AD0037",
+        "itemName": "Fancy Birthday Cap Pack of 5",
+        "addonType": [],
+        "price": 149,
+        "discountPrice": 95
+    },{
+        "itemId": "AD0038",
+        "itemName": "Birthday Cap Pack of 5",
+        "addonType": [],
+        "price": 100,
+        "discountPrice": 65
+    },{
+        "itemId": "AD0039",
+        "itemName": "Pink Birthday Cap Pack of 5",
+        "addonType": [],
+        "price": 100,
+        "discountPrice": 65
+    },{
+        "itemId": "AD0040",
+        "itemName": "Golden Candle 0",
+        "addonType": [],
+        "price": 45,
+        "discountPrice": 30
+    },{
+        "itemId": "AD0041",
+        "itemName": "Golden Candle 1",
+        "addonType": [],
+        "price": 45,
+        "discountPrice": 30
+    },{
+        "itemId": "AD0042",
+        "itemName": "Golden Candle 2",
+        "addonType": [],
+        "price": 45,
+        "discountPrice": 30
+    },{
+        "itemId": "AD0043",
+        "itemName": "Golden Candle 3",
+        "addonType": [],
+        "price": 45,
+        "discountPrice": 30
+    },{
+        "itemId": "AD0044",
+        "itemName": "Golden Candle 4",
+        "addonType": [],
+        "price": 45,
+        "discountPrice": 30
+    },{
+        "itemId": "AD0045",
+        "itemName": "Golden Candle 5",
+        "addonType": [],
+        "price": 45,
+        "discountPrice": 30
+    },{
+        "itemId": "AD0046",
+        "itemName": "Golden Candle 6",
+        "addonType": [],
+        "price": 45,
+        "discountPrice": 30
+    },{
+        "itemId": "AD0047",
+        "itemName": "Golden Candle 7",
+        "addonType": [],
+        "price": 45,
+        "discountPrice": 30
+    },{
+        "itemId": "AD0048",
+        "itemName": "Golden Candle 8",
+        "addonType": [],
+        "price": 45,
+        "discountPrice": 30
+    },{
+        "itemId": "AD0049",
+        "itemName": "Golden Candle 9",
+        "addonType": [],
+        "price": 45,
+        "discountPrice": 30
+    },{
+        "itemId": "AD0050",
+        "itemName": "Red Candle 0",
+        "addonType": [],
+        "price": 30,
+        "discountPrice": 20
+    },{
+        "itemId": "AD0051",
+        "itemName": "Red Candle 1",
+        "addonType": [],
+        "price": 30,
+        "discountPrice": 20
+    },{
+        "itemId": "AD0052",
+        "itemName": "Red Candle 2",
+        "addonType": [],
+        "price": 30,
+        "discountPrice": 20
+    },{
+        "itemId": "AD0053",
+        "itemName": "Red Candle 3",
+        "addonType": [],
+        "price": 30,
+        "discountPrice": 20
+    },{
+        "itemId": "AD0054",
+        "itemName": "Red Candle 4",
+        "addonType": [],
+        "price": 30,
+        "discountPrice": 20
+    },{
+        "itemId": "AD0055",
+        "itemName": "Red Candle 5",
+        "addonType": [],
+        "price": 30,
+        "discountPrice": 20
+    },{
+        "itemId": "AD0056",
+        "itemName": "Red Candle 6",
+        "addonType": [],
+        "price": 30,
+        "discountPrice": 20
+    },{
+        "itemId": "AD0057",
+        "itemName": "Red Candle 7",
+        "addonType": [],
+        "price": 30,
+        "discountPrice": 20
+    },{
+        "itemId": "AD0058",
+        "itemName": "Red Candle 8",
+        "addonType": [],
+        "price": 30,
+        "discountPrice": 20
+    },{
+        "itemId": "AD0059",
+        "itemName": "Red Candle 9",
+        "addonType": [],
+        "price": 30,
+        "discountPrice": 20
     }
     
 ]

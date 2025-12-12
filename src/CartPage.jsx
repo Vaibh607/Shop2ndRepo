@@ -712,7 +712,14 @@ const CartPage = ({switchPage,wishlist,toggleWishlist,cart,toggleCart,updateCart
                 <div className='total-value'>₹{grandTotal}</div>
             </div>
             {/* Add state for checkboxes at the top of your component if not already present */}
-            
+            <div className='payment-qr-code'>
+                <div className='qr-code-head'>
+                    Scan and Pay: ₹{grandTotal} using QR and send us the screenshot on <a href="https://wa.me/7992419378/">Whatsapp: +91 7992419378 </a>
+                </div>
+                <div className='qr-code-image'>
+                    <img src={qrCode} alt="Payment QR Code" />
+                </div>
+            </div>
             <div className="mandatory-checkboxes">
               <div>
                 <input
@@ -753,14 +760,7 @@ const CartPage = ({switchPage,wishlist,toggleWishlist,cart,toggleCart,updateCart
                 </div>
             )}
 
-            <div className='payment-qr-code'>
-                <div className='qr-code-head'>
-                    Scan and Pay: ₹{grandTotal} using QR
-                </div>
-                <div className='qr-code-image'>
-                    <img src={qrCode} alt="Payment QR Code" />
-                </div>
-            </div>
+            
 
         </>
     )
