@@ -245,8 +245,8 @@ const Homepage = ({switchPage,wishlist,toggleWishlist,cart,toggleCart,setSelecte
                     What We Make
                 </div>
                 <div className="about-cont">
-                    <span className="about-subhead"> Fresh homemade cakes — </span>classic, dry, designer and tiered cakes (made to your weight/size). <br/>
-                    <span className="about-subhead"> Unique regional & experimental flavours — </span>examples: pan, rasmalai, panipuri, and more (tell us your idea!). <br/>
+                    <span className="about-subhead"> Fresh homemade cakes — </span>classic cakes, dry cakes, designer cakes, jar cakes, cup cakes and tier cakes (made to your weight/size). <br/>
+                    <span className="about-subhead"> Unique regional & experimental flavours — </span>examples: pan flavour, rasmalai, mango, gulabjamun, chocolate, vanilla (pineapple / butterscotch etc.) and more (tell us your idea!). <br/>
                     <span className="about-subhead"> Cupcakes & party packs — </span>single-serve joy for any event. <br/>
                     <span className="about-subhead"> Homemade chocolates & chocolate bunches — </span>individual chocolates and creative bunches (Dairy Milk, Five Star, KitKat and similar included on request). <br/>
                     <span className="about-subhead"> Chocolate bouquets, cake toppers, candles & greeting cards — </span>ready-to-gift add-ons. <br/>
@@ -275,11 +275,11 @@ const Homepage = ({switchPage,wishlist,toggleWishlist,cart,toggleCart,setSelecte
                 <div className="about-cont">
                     ✅ <span className="about-subhead">Free Delivery – </span>Applicable only for full-time delivery slots and if your address is within 10 km radius from Bank More, Dhanbad. <br/>
                     📅 <span className="about-subhead">Order in Advance – </span>Please place your order at least one day before your delivery date. That doesn't mean that order will be prepared in advance,it will be prepapred same day of delivery date. <br/>
-                    🔪 <span className="about-subhead">Complimentry – </span> Knifes and Candles are complimentary with cake.<br/>
+                    🔪 <span className="about-subhead">Complimentry – </span> Knifes, Candles, Spoon and Tissue Papers are complimentary with cake.<br/>
                     <span className="about-subhead">Product Images – </span> All cake and bouquet images displayed on our website are for illustration purposes only. The actual product may slightly vary in design, color, shape, or decoration, depending on availability and the artisan’s creativity. <br/>
                     <span className="about-subhead">Delivery Timings – </span> We strive to deliver orders within the chosen time slot. However, slight delays may occur due to traffic, weather, or unforeseen conditions. If we failed to deliver on your choosen time slot, you will get refund of your delivery charges.<br/>
                     <span className="about-subhead">Cancellation – </span> Cancellation of order is not allowed after the order is confirmed. However, if you want to cancel the order, you can do so by contacting us on WhatsApp. <br/>
-                    <span className="about-subhead">Refunds – </span> Cancellations and refunds are accepted only before 6 hrs before starting of delivery time slot. Once the order is in progress, refunds or changes are not possible.
+                    <span className="about-subhead">Refunds – </span> Cancellations and refunds are accepted only before 6 hrs before starting of delivery time slot. Once the order is in progress, refunds or changes are not possible.<br/>
                     <span className="about-subhead">Privacy – </span> Your personal information is kept confidential and will not be shared with any third party. <br/>
 
                     We reserve the right to cancel any order after acceptance due to any curcumstances and you will get your money refunded.
@@ -317,10 +317,11 @@ const Homepage = ({switchPage,wishlist,toggleWishlist,cart,toggleCart,setSelecte
                     Why customers choose us
                 </div>
                 <div className="about-cont">
-                    <span className="about-subhead"> Homemade freshness — </span>we bake per order to ensure maximum taste and shelf-life. <br/>
-                    <span className="about-subhead"> Creative, customised designs — </span>designer cakes, themed toppers, tier cakes and quirky flavour requests welcome. <br/>
-                    <span className="about-subhead"> Personalisation options — </span>choose weight, add a custom message, select packaging, or request special dietary options. <br/>
-                    <span className="about-subhead"> Free delivery — </span> across Dhanbad district within 8km raduis of Bank More <br/>
+                    <span className="about-subhead"> Homemade freshness — </span>Your cake is baked right before dispatch — never stored, never old to ensure maximum taste and freshness.<br/>
+                    <span className="about-subhead"> Fresh Flowers— </span>We use fresh flowers from Kolkata, Banglore and Pune. <br/>
+                    <span className="about-subhead"> Creative, customised designs — </span>designer cakes, themed cake, tier cakes and various flavour as per your choice. <br/>
+                    <span className="about-subhead"> Personalisation options — </span>choose weight, add a custom message, or request special dietary options. <br/>
+                    <span className="about-subhead"> Free delivery — </span> across Dhanbad district within 10 km raduis of Bank More <br/>
                     <span className="about-subhead"> Mobile-first, WhatsApp ordering — </span>quick, simple ordering experience built for phones.
                 </div>
                 

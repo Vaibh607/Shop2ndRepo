@@ -1,7 +1,7 @@
 [
     {
         "itemId": "AD0001",
-        "itemName": "Designer Candles",
+        "itemName": "Spiral Candles",
         "addonType": ["Candle"],
         "price": 100,
         "discountPrice": 45
@@ -17,12 +17,12 @@
         "itemId": "AD0003",
         "itemName": "Anniversary Topper",
         "addonType": ["Cake Topper"],
-        "price": 100,
+        "price": 85,
         "discountPrice": 55
     },
     {
         "itemId": "AD0004",
-        "itemName": "Designer Candles",
+        "itemName": "Spiral Candles",
         "addonType": ["Candle"],
         "price": 100,
         "discountPrice": 45
@@ -73,84 +73,84 @@
         "itemId": "AD0011",
         "itemName": "5 Dairy Milk bunch",
         "addonType": ["Chocolate"],
-        "price": 100,
+        "price": 150,
         "discountPrice": 95
     },
     {
         "itemId": "AD0012",
         "itemName": "Mothers day Greeting Card",
         "addonType": ["Greeting Card"],
-        "price": 100,
+        "price": 90,
         "discountPrice": 55
     },
     {
         "itemId": "AD0013",
         "itemName": "Love Greeting Card",
         "addonType": ["Greeting Card"],
-        "price": 100,
+        "price": 90,
         "discountPrice": 55
     },
     {
         "itemId": "AD0014",
         "itemName": "Thank You Greeting Card",
         "addonType": ["Greeting Card"],
-        "price": 100,
+        "price": 90,
         "discountPrice": 55
     },
     {
         "itemId": "AD0015",
         "itemName": "Birthday Greeting Card",
         "addonType": ["Greeting Card"],
-        "price": 100,
+        "price": 90,
         "discountPrice": 55
     },
     {
         "itemId": "AD0016",
         "itemName": "Get Well Soon Greeting Card",
         "addonType": ["Greeting Card"],
-        "price": 100,
+        "price": 90,
         "discountPrice": 55
     },
     {
         "itemId": "AD0017",
         "itemName": "Happy Birthday Greeting Card",
         "addonType": ["Greeting Card"],
-        "price": 100,
+        "price": 90,
         "discountPrice": 55
     },
     {
         "itemId": "AD0018",
         "itemName": "Fathers day Greeting Card",
         "addonType": ["Greeting Card"],
-        "price": 100,
+        "price": 90,
         "discountPrice": 55
     },
     {
         "itemId": "AD0019",
         "itemName": "Anniversary Greeting Card",
         "addonType": ["Greeting Card"],
-        "price": 100,
+        "price": 90,
         "discountPrice": 55
     },
     {
         "itemId": "AD0020",
         "itemName": "Friendship day Greeting Card",
         "addonType": ["Greeting Card"],
-        "price": 100,
+        "price": 90,
         "discountPrice": 55
     },
     {
         "itemId": "AD0021",
         "itemName": "Rose day Greeting Card",
         "addonType": ["Greeting Card"],
-        "price": 100,
+        "price": 90,
         "discountPrice": 55
     },
     {
         "itemId": "AD0022",
         "itemName": "5 in Teddy",
         "addonType": ["Soft Toy"],
-        "price": 100,
+        "price": 315,
         "discountPrice": 175
     },{
         "itemId": "AD0023",
@@ -168,8 +168,44 @@
         "itemId": "AD0025",
         "itemName": "5 Kitkat bunch",
         "addonType": ["Chocolate"],
-        "price": 100,
+        "price": 220,
         "discountPrice": 145
+    },{
+        "itemId": "AD0026",
+        "itemName": "Party Popper Pack of 2",
+        "addonType": [],
+        "price": 280,
+        "discountPrice": 195
+    },{
+        "itemId": "AD0026",
+        "itemName": "Birthday Hanger Black & Gold",
+        "addonType": [],
+        "price": 280,
+        "discountPrice": 195
+    },{
+        "itemId": "AD0026",
+        "itemName": "Birthday Hanger Pink",
+        "addonType": [],
+        "price": 280,
+        "discountPrice": 195
+    },{
+        "itemId": "AD0026",
+        "itemName": "Anniversary Hanger White",
+        "addonType": [],
+        "price": 280,
+        "discountPrice": 195
+    },{
+        "itemId": "AD0026",
+        "itemName": "Anniversary Hanger Black & Gold",
+        "addonType": [],
+        "price": 280,
+        "discountPrice": 195
+    },{
+        "itemId": "AD0026",
+        "itemName": "Colourful Balloons Pack of 50",
+        "addonType": [],
+        "price": 280,
+        "discountPrice": 195
     }
     
 ]
